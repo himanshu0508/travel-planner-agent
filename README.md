@@ -4,7 +4,8 @@
 ## 📌 Capstone Project – IBM SkillsBuild | AI Agent Case Study
 
 ### 👨‍💻 Presented by: Himanshu Phogat  
-### 🏫 College Name & Department: [Your College Name], [Your Department]
+### 🏫 College Name & Department: JIMS Engineering Management Technical Campus (JEMTEC)
+, Btech [Computer science and engineering]
 
 ---
 
@@ -64,16 +65,7 @@ This AI agent uses Natural Language Processing and RAG to:
 
 ---
 
-## 📷 Screenshots
 
-- **Home Interface:** Conversational input box  
-- **Destination Recommendations:** List of personalized options  
-- **Itinerary Generator:** Day-wise plan preview  
-- **Weather/visa popup:** Region-specific guidance  
-
-(*Attach screenshots in the GitHub repo's `/screenshots` folder and embed them here.*)
-
----
 
 ## 📝 Sample Prompts
 
@@ -113,7 +105,7 @@ This AI agent uses Natural Language Processing and RAG to:
 
 ## 🔗 GitHub Link
 
-[https://github.com/yourusername/ai-travel-agent](https://github.com/yourusername/ai-travel-agent)
+[https://github.com/yourusername/ai-travel-agent](https://github.com/yourusern/ai-travel-agent)
 
 ✅ Includes README.md  
 ✅ Includes sample outputs/screenshots  
