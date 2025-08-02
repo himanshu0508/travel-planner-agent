@@ -105,7 +105,7 @@ This AI agent uses Natural Language Processing and RAG to:
 
 ## 🔗 GitHub Link
 
-[https://github.com/yourusername/ai-travel-agent](https://github.com/yourusern/ai-travel-agent)
+https://github.com/himanshu0508/travel-planner-agent
 
 ✅ Includes README.md  
 ✅ Includes sample outputs/screenshots  
